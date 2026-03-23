@@ -1,0 +1,7 @@
+.python_dotenv
+.openai
+.groq
+.numpy
+.sentence_transformers
+.PyPDF2
+.python_docx
